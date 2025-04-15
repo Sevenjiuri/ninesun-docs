@@ -2,7 +2,7 @@
   "name": "vitepress-blog",
   "version": "1.0.0",
   "private": true,
-  "author": "粥里有勺糖",
+  "author": "ninesun",
   "license": "MIT",
   "scripts": {
     "dev": "vitepress dev docs",
@@ -13,7 +13,8 @@
     "@element-plus/icons-vue": "^2.3.1",
     "@sugarat/theme": "^0.5.4",
     "element-plus": "^2.7.2",
-    "vue": "3.5.12"
+    "vue": "3.5.12",
+    "yarn": "^1.22.22"
   },
   "directories": {
     "doc": "docs"
@@ -23,7 +24,7 @@
     "sass": "^1.76.0",
     "sass-embedded": "^1.86.3",
     "typescript": "^5.4.5",
-    "vitepress": "1.6.3"
+    "vitepress": "^1.6.3"
   },
   "pnpm": {
     "peerDependencyRules": {
