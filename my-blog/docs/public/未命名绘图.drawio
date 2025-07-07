@@ -26,7 +26,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6HZtC8FVuErmwx6eQUZ-1" value="公共能力集成中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+        <mxCell id="G6HZtC8FVuErmwx6eQUZ-1" value="公共能力集成中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="30" y="250" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G6HZtC8FVuErmwx6eQUZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G6HZtC8FVuErmwx6eQUZ-2" target="G6HZtC8FVuErmwx6eQUZ-1" edge="1">
@@ -47,19 +47,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6HZtC8FVuErmwx6eQUZ-2" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;common-amp.jar&lt;/pre&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="G6HZtC8FVuErmwx6eQUZ-2" value="&lt;div&gt;&lt;pre style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot; face=&quot;JetBrains Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.0667px;&quot;&gt;common-amp.jar&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 255, 255); background-color: light-dark(rgb(30, 31, 34), rgb(209, 210, 212));&quot; face=&quot;JetBrains Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 9.8pt;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76A907;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="300" y="50" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="G6HZtC8FVuErmwx6eQUZ-8" value="其他中心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="G6HZtC8FVuErmwx6eQUZ-8" value="其他中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="720" y="250" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="G6HZtC8FVuErmwx6eQUZ-11" value="易信" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="G6HZtC8FVuErmwx6eQUZ-11" value="易信" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="-10" y="490" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G6HZtC8FVuErmwx6eQUZ-21" value="网盘" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="G6HZtC8FVuErmwx6eQUZ-21" value="网盘" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="80" y="490" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G6HZtC8FVuErmwx6eQUZ-22" value="外部能力" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="QDKsBJiWHmGXOYYynuJl-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6HZtC8FVuErmwx6eQUZ-22" target="G6HZtC8FVuErmwx6eQUZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6HZtC8FVuErmwx6eQUZ-22" value="外部能力" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="170" y="490" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6HZtC8FVuErmwx6eQUZ-24" value="公共接口列表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -83,8 +86,8 @@
         <mxCell id="QDKsBJiWHmGXOYYynuJl-5" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-240" y="30" width="1190" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="G6HZtC8FVuErmwx6eQUZ-6" value="小思" style="whiteSpace=wrap;html=1;rounded=1;" parent="QDKsBJiWHmGXOYYynuJl-5" vertex="1">
-          <mxGeometry x="570" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="G6HZtC8FVuErmwx6eQUZ-6" value="小思" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="QDKsBJiWHmGXOYYynuJl-5" vertex="1">
+          <mxGeometry x="580" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QDKsBJiWHmGXOYYynuJl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6HZtC8FVuErmwx6eQUZ-6" target="G6HZtC8FVuErmwx6eQUZ-24">
           <mxGeometry relative="1" as="geometry" />
@@ -128,7 +131,7 @@
         <mxCell id="QDKsBJiWHmGXOYYynuJl-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QDKsBJiWHmGXOYYynuJl-8">
           <mxGeometry x="1050" y="55" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QDKsBJiWHmGXOYYynuJl-23" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QDKsBJiWHmGXOYYynuJl-8">
+        <mxCell id="QDKsBJiWHmGXOYYynuJl-23" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="QDKsBJiWHmGXOYYynuJl-8">
           <mxGeometry x="45" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QDKsBJiWHmGXOYYynuJl-11" value="公共接口处理流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
